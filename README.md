@@ -1,8 +1,16 @@
 ## Cybersecurity Threat Landscape: APT28 Analysis and Defense Strategies
 
-**Project Overview**
+**Download the Full Project Report**: [Group-Project  Cybersecurity Threat Landscape.pdf](https://github.com/user-attachments/files/17938436/Group-Project.Cybersecurity.Threat.Landscape.pdf)
 
-This repository focuses on analyzing the cybersecurity threat landscape with a specific emphasis on Advanced Persistent Threat 28 (APT28), also known as Fancy Bear. It includes research on the evolving tactics, techniques, and procedures (TTPs) used by state-sponsored threat actors, alongside recommended defense strategies leveraging machine learning and data analytics.
+## Introduction
+
+This project was part of a group assignment for CMIT 495: Current Trends and Projects in Computer Networks and Security. It analyzes the current cyber threat landscape, focusing on the role of Advanced Persistent Threats (APTs) and highlighting APT28 as a case study. Recommendations are made for leveraging modern cybersecurity tools and ethical considerations in the field.
+
+## Why This Matters
+
+The cybersecurity threat landscape is constantly evolving, and Advanced Persistent Threats (APTs) represent some of the most sophisticated and dangerous actors. APTs, often backed by nation-states, target critical industries like government, healthcare, and finance, aiming to exfiltrate sensitive data, disrupt operations, or achieve geopolitical objectives. Groups like APT28, with their advanced tactics and resources, pose significant risks to global stability and economic security. Understanding their methods and developing robust defense strategies is essential for organizations to safeguard their assets and maintain operational resilience in the face of these advanced threats.
+
+
 
 ## Table of Contents
 
@@ -20,11 +28,9 @@ This repository focuses on analyzing the cybersecurity threat landscape with a s
 
 - References
 
-**Introduction**
 
-This project was part of a group assignment for CMIT 495: Current Trends and Projects in Computer Networks and Security. It analyzes the current cyber threat landscape, focusing on the role of Advanced Persistent Threats (APTs) and highlighting APT28 as a case study. Recommendations are made for leveraging modern cybersecurity tools and ethical considerations in the field.
 
-**Current Threat Landscape**
+## Current Threat Landscape
 
 Key Insights
 
@@ -33,13 +39,13 @@ Key Insights
 - Proliferation of Ransomware-as-a-Service (RaaS) enabling less-skilled attackers to execute sophisticated ransomware attacks.
 - Increasing exploitation of zero-day vulnerabilities and supply chain attacks.
 
-**APT28 Case Study**
+## APT28 Case Study
 
 Who is APT28?
 
 APT28, also known as Fancy Bear or STRONTIUM, is a Russian state-sponsored cyber-espionage group. This group has been active since 2004 and is associated with Russia's GRU military intelligence agency.
 
-**Key Tactics Used**
+## Key Tactics Used
 
 - Spearphishing: Crafting highly targeted emails to steal credentials.
   
@@ -47,7 +53,7 @@ APT28, also known as Fancy Bear or STRONTIUM, is a Russian state-sponsored cyber
   
 - Persistence: Maintaining long-term access through backdoors like SOURFACE and CHOPSTICK.
   
-**Notable Campaigns**
+## Notable Campaigns
 
 - 2016 U.S. Democratic National Committee (DNC) breach.
   
@@ -61,7 +67,7 @@ APT28, also known as Fancy Bear or STRONTIUM, is a Russian state-sponsored cyber
   
 - Network Security: IDS/IPS and encrypted communication protocols.
   
-**Addressing APTs**
+## Addressing APTs
 
 - Machine learning and behavioral analytics for anomaly detection.
   
@@ -75,13 +81,13 @@ APT28, also known as Fancy Bear or STRONTIUM, is a Russian state-sponsored cyber
   
 - Predictive analytics to model potential attack scenarios.
   
-**Recommendations**
+## Recommendations
 
 - Deploy tools like Darktrace, CrowdStrike, and FireEye to enhance threat detection and response capabilities.
   
 - Invest in training staff on recognizing and mitigating social engineering attacks.
   
-**Ethical Considerations**
+## Ethical Considerations
 
 - Importance of transparency in reporting data breaches to maintain public trust.
   
@@ -107,7 +113,7 @@ William McMahan
 
 -----
 
-**References**
+## References
 
 Include citations for the sources referenced in the project. For example:
 
