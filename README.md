@@ -32,7 +32,7 @@ The cybersecurity threat landscape is constantly evolving, and Advanced Persiste
 
 ## Current Threat Landscape
 
-Key Insights
+**Key Insights**
 
 - Rise of Advanced Persistent Threats (APTs) targeting critical sectors like government, healthcare, and finance.
   
@@ -41,7 +41,7 @@ Key Insights
 
 ## APT28 Case Study
 
-Who is APT28?
+**Who is APT28?**
 
 APT28, also known as Fancy Bear or STRONTIUM, is a Russian state-sponsored cyber-espionage group. This group has been active since 2004 and is associated with Russia's GRU military intelligence agency.
 
